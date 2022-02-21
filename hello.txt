@@ -9,5 +9,5 @@ hello git hello min!
 hello git hello min!
 hello git hello min!
 hello git hello min!
-hello git hello min!
+hello git hello min! hot-fix test
 this is hot fix! 
